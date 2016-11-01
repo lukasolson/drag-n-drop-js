@@ -5,6 +5,9 @@ body {
 	-moz-user-select: none;
 	-o-user-select: none;
 	user-select: none;
+	overflow: hidden;
+	touch-action: none;
+	-ms-touch-action: none;
 }
 
 h4 {
